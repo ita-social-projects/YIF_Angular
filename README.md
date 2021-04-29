@@ -1,6 +1,6 @@
 <a href="https://softserve.academy/"><img src="https://s.057.ua/section/newsInternalIcon/upload/images/news/icon/000/050/792/vnutr_5ce4f980ef15f.jpg" title="SoftServe IT Academy" alt="SoftServe IT Academy"></a>
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+**_INSERT GRAPHIC HERE (include hyperlink in image)_**
 
 # Repository Title Goes Here
 
@@ -29,7 +29,7 @@
 [![Pending Pull-Requests](https://img.shields.io/github/issues-pr/ita-social-projects/GreenCity?style=flat-square)](https://github.com/ita-social-projects/GreenCity/pulls)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- For more on these wonderful  badges, refer to <a href="https://shields.io/" target="_blank">shields.io</a>.
+- For more on these wonderful badges, refer to <a href="https://shields.io/" target="_blank">shields.io</a>.
 
 ---
 
@@ -64,14 +64,17 @@
 - Images of what it should look like
 
 ### Required to install
-* Python (3.6.3)
-* PostgreSQL (9.5.9)
-* Django (1.11.6)
-* NodeJS (6.11.4)
-* Redis (3.0.6)
+
+- Python (3.6.3)
+- PostgreSQL (9.5.9)
+- Django (1.11.6)
+- NodeJS (6.11.4)
+- Redis (3.0.6)
 
 ### Environment
+
 environmental variables
+
 ```properties
 spring.datasource.url=${DATASOURCE_URL}
 spring.datasource.username=${DATASOURCE_USER}
@@ -114,8 +117,11 @@ $ bower install
 ---
 
 ## Usage
+
 ### How to work with swagger UI
+
 ### How to run tests
+
 ### How to Checkstyle
 
 ---
@@ -127,14 +133,17 @@ $ bower install
 ## Contributing
 
 ### Git flow
+
 > To get started...
+
 #### Step 1
 
 - **Option 1**
-    - 🍴 Fork this repo!
+
+  - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/ita-social-projects/SOMEREPO.git`
+  - 👯 Clone this repo to your local machine using `https://github.com/ita-social-projects/SOMEREPO.git`
 
 #### Step 2
 
@@ -155,11 +164,11 @@ $ bower install
 [![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
 [![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
 [![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
-[![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam) 
 [![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
 [![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
 [![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
-[![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)  
+[![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
+[![@lhalam](https://avatars3.githubusercontent.com/u/3837059?s=100&v=4)](https://github.com/lhalam)
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
@@ -168,8 +177,8 @@ $ bower install
 
 ## FAQ
 
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
+- **How do I do _specifically_ so and so?**
+  - No problem! Just do this.
 
 ---
 
