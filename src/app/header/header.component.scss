@@ -1,5 +1,6 @@
+@import "../../styles.scss";
+
 .container {
-  box-sizing: border-box;
   height: 6.25rem;
   font-size: 1.125rem;
   text-align: center;
@@ -11,4 +12,12 @@
   box-shadow: 1px 1px 10px rgb(0 0 0 / 30%);
   position: relative;
   z-index: 1;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  margin-right: 9.03vw;
+  font-size: 1.125rem;
 }

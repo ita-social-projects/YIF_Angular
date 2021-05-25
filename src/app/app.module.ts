@@ -4,10 +4,11 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
-import { LogoComponent } from './header/logo/logo.component';
+import { LogoComponent } from './shared/logo/logo.component';
 import { NavigationComponent } from './header/navigation/navigation.component';
 import { LoginComponent } from './header/login/login.component';
 import { LectorCabinetComponent } from './lector-cabinet/lector-cabinet.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { LectorCabinetComponent } from './lector-cabinet/lector-cabinet.componen
     LogoComponent,
     NavigationComponent,
     LoginComponent,
-    LectorCabinetComponent
+    LectorCabinetComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
